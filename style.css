@@ -1,0 +1,463 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+section{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 27%;
+    justify-content: center;
+    align-items: center;
+}
+.upper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    padding: 5px;
+}
+header svg{
+    width: 19%;
+}
+.search-bar{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.search-bar input{
+    padding: 6px;
+    padding-left: 25px;
+}
+.search-bar i{
+    color: gray;
+    font-size: 15px;
+    position: relative;
+    left: 17px;
+}
+.search-bar button{
+    padding: 7.9px 7.9px;
+    color: white;
+    cursor: pointer;
+    background-color: red;
+    position: relative;
+    right: 10px;
+    border: none;
+}
+.parent{
+    width: 640px;
+    display: flex;
+    flex-direction: column;
+}
+.virat-kolhi{
+    height: 80px;
+    width: 190px;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+.first-child img{
+    width: 190px;
+}
+hr{
+    color: black;
+    font-weight: bold;
+    height: 2px;
+    width: 750px;
+    border: none;
+    
+    background-color: black;
+    
+    margin:1px; 
+}
+.arrow-side{
+    display: flex;
+
+}
+.arrow-side i{
+    color: brown;
+    text-decoration: underline;
+    font-size: 11px;
+    
+}
+.first-child{
+    margin: 9px;
+    height: 219px;
+}
+.first-child p{
+    font-size: 11px;
+    font-weight: bold;
+    /* margin-bottom: 3px; */
+} 
+.first-child span{
+    font-size: 11px;
+}
+.first-line{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    
+}
+.second-line{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+.third-line{
+    display: flex;
+    margin-bottom: 30px;
+    flex-direction: row;
+}
+body{
+    background-color: azure;
+}
+section{
+    background-color:white;
+}
+.logo{
+    color: red;
+    background-color: red;
+    border: none;
+    border-radius: 50%;
+    padding: 1px;    
+}
+.header{
+    font-size: 100px;
+}
+img{
+    margin-bottom: auto;
+}
+.log{
+    color: red;
+    background-color: red;
+    border-radius: 70%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+section{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 27%;
+    justify-content: center;
+    align-items: center;
+}
+.upper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    padding: 5px;
+}
+header svg{
+    width: 19%;
+}
+.search-bar{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.search-bar input{
+    padding: 6px;
+    padding-left: 25px;
+}
+.search-bar i{
+    color: gray;
+    font-size: 15px;
+    position: relative;
+    left: 17px;
+}
+.search-bar button{
+    padding: 7.9px 7.9px;
+    color: white;
+    cursor: pointer;
+    background-color: red;
+    position: relative;
+    right: 10px;
+    border: none;
+}
+.parent{
+    width: 640px;
+    display: flex;
+    flex-direction: column;
+}
+.virat-kolhi{
+    height: 80px;
+    width: 190px;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+.first-child img{
+    width: 190px;
+}
+hr{
+    color: black;
+    font-weight: bold;
+    height: 2px;
+    width: 750px;
+    border: none;
+    
+    background-color: black;
+    
+    margin:1px; 
+}
+.arrow-side{
+    display: flex;
+
+}
+.arrow-side i{
+    color: brown;
+    text-decoration: underline;
+    font-size: 11px;
+    
+}
+.first-child{
+    margin: 9px;
+    height: 219px;
+}
+.first-child p{
+    font-size: 11px;
+    font-weight: bold;
+    /* margin-bottom: 3px; */
+} 
+.first-child span{
+    font-size: 11px;
+}
+.first-line{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    
+}
+.second-line{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+.third-line{
+    display: flex;
+    margin-bottom: 30px;
+    flex-direction: row;
+}
+body{
+    background-color: azure;
+}
+section{
+    background-color:white;
+}
+.logo{
+    color: red;
+    background-color: red;
+    border: none;
+    border-radius: 50%;
+    padding: 1px;    
+}
+.header{
+    font-size: 100px;
+}
+img{
+    margin-bottom: auto;
+}
+.log{
+    color: red;
+    background-color: red;
+    border-radius: 70%;
+
+}
+.heading{
+    color: #d02424;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 495px;
+}
+.lower{
+    font-size: 12px;
+}
+.lower span{
+    font-size: 12px;
+}
+
+
+@media (max-width: 768px) {
+    
+
+    section {
+        width: 80%; 
+        margin-left: 10%; 
+    }
+
+    header {
+        flex-direction: column; 
+        height: auto; 
+    }
+
+    .search-bar {
+        flex-direction: column; 
+    }
+
+    .search-bar input,
+    .search-bar button {
+        width: 100%; 
+        margin-bottom: 5px; 
+    }
+
+    .parent {
+        width: 100%;
+    }
+
+    .virat-kolhi {
+        width: 100%; 
+        height: auto; 
+    }
+
+    .first-line, .second-line, .third-line {
+        flex-direction: column; 
+        margin-bottom: 20px; 
+    }
+
+    .logo, .log {
+        font-size: 50px; 
+    }
+}
+
+@media (max-width: 480px) {
+    
+
+    section {
+        width: 100%; 
+        margin-left: 0; 
+        padding: 10px; 
+    }
+
+    .search-bar {
+        width: 100%; 
+    }
+
+    .parent {
+        padding: 10px; 
+        width: 100%; 
+    }
+
+    header {
+        flex-direction: column; 
+    }
+
+    
+
+    .first-line, .second-line, .third-line {
+        flex-direction: column; 
+        margin-bottom: 10px; 
+    }
+
+    .logo, .log {
+        font-size: 30px; 
+    }
+
+   
+
+}
+.heading{
+    color: #d02424;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 495px;
+}
+.lower{
+    font-size: 12px;
+}
+.lower span{
+    font-size: 12px;
+}
+
+
+@media (max-width: 768px) {
+    
+
+    section {
+        width: 80%; 
+        margin-left: 10%; 
+    }
+
+    header {
+        flex-direction: column; 
+        height: auto; 
+    }
+
+    .search-bar {
+        flex-direction: column; 
+    }
+
+    .search-bar input,
+    .search-bar button {
+        width: 100%; 
+        margin-bottom: 5px; 
+    }
+
+    .parent {
+        width: 100%;
+    }
+
+    /* .virat-kolhi {
+        width: 100%; 
+        height: auto; 
+    } */
+
+    .first-line, .second-line, .third-line {
+        flex-direction: column; 
+        margin-bottom: 20px; 
+    }
+
+    .logo, .log {
+        font-size: 50px; 
+    }
+}
+
+@media (max-width: 480px) {
+    
+
+    section {
+        width: 100%; 
+        margin-left: 0; 
+        padding: 10px; 
+    }
+
+    .search-bar {
+        width: 100%; 
+    }
+
+    .parent {
+        padding: 10px; 
+        width: 100%; 
+    }
+
+    header {
+        flex-direction: column; 
+    }
+
+    .virat-kolhi {
+        width: 100%; 
+        height: auto; 
+    }
+
+    .first-line, .second-line, .third-line {
+        flex-direction: column; 
+        margin-bottom: 10px; 
+    }
+
+    .logo, .log {
+        font-size: 30px; 
+    }
+
+    /* .shital {
+        font-size: 50px; 
+    } */
+}
